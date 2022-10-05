@@ -1,2 +1,2 @@
 # Prework-Study-Guide
-Desc
+A tool to help take notes and demo projects
